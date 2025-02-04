@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a Full-Stack Developer, from ....</p>
+<p align="left">My name is Kumar Gaurav and I'm a Full-Stack Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Build scalable and efficient applications<br>🎲 Fun fact: I love debugging more than coding (sometimes) 😆</p>
+<p align="left">✨ Creating bugs since my first 'Hello World!'<br>📚 I'm currently learning <br>🎯 Goals: Build scalable and efficient applications<br>🎲 Fun fact: I love debugging more than coding (sometimes) 😆</p>
 
 ###
 
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  
 </div>
 
 ###
